@@ -3,8 +3,6 @@ package 数组;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class 按键持续时间最长的键_1629Test {
 
   @Test

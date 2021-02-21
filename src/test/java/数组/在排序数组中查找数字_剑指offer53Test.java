@@ -3,8 +3,6 @@ package 数组;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class 在排序数组中查找数字_剑指offer53Test {
 
     @Test

@@ -4,8 +4,6 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class 合并排序的数组_面试题_10_01Test {
 
     @Test

@@ -3,8 +3,6 @@ package 数组;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class 买卖股票的最佳时机_121Test {
 
   @Test
